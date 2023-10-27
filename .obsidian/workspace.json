@@ -11,8 +11,13 @@
             "id": "131072a9ee30e28d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BASTIONADO/Tema 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BASTIONADO/Tema 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BASTIONADO/Tema 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BASTIONADO/Tema 1.md"
+              }
             }
           }
         ],
@@ -139,7 +148,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bc01c86841673d13",
+  "active": "131072a9ee30e28d",
   "lastOpenFiles": [
     "Sin título.canvas",
     "BASTIONADO/Tema 1.md",
