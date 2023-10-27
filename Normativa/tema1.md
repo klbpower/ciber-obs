@@ -1,0 +1,1 @@
+https://www.billin.net/blog/persona-fisica-juridica/#:~:text=Un%20ejemplo%20de%20persona%20f%C3%ADsica,%2C%20Greenpeace%2C%20BBVA%2C%20etc.
