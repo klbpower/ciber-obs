@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "0cc2eed45c370be7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a385c55ab35fd2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "131072a9ee30e28d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91aa42583b60f06f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3f96673e772f75c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad8ef611968f6ef0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "651a9b11c818b4b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc2d4f898e89c0aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "daec5c92caddd289",
+    "type": "split",
+    "children": [
+      {
+        "id": "345f4f34523f500b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b35ef13f4bbb31b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc01c86841673d13",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "679fa7f5b63b3f6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ccbe5f8cb782ff63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "bc01c86841673d13",
+  "lastOpenFiles": [
+    "Sin título.canvas",
+    "BASTIONADO/Tema 1.md",
+    "27-10-2023.md",
+    "Sin título 1.md",
+    "Sin título.md",
+    "BASTIONADO/Untitled.md",
+    "HACKING ETICO",
+    "INCIDENTES",
+    "NORMATIVA",
+    "BASTIONADO",
+    "PRODUCCION SEGURA",
+    "ANALISIS"
+  ]
+}

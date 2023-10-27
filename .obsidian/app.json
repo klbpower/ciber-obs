@@ -1,0 +1,7 @@
+{
+  "attachmentFolderPath": "./ajduntos",
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    ".git"
+  ]
+}
