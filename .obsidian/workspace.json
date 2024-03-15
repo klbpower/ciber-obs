@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BASTIONADO/Tema 2/Tema 2.md",
+                "file": "BASTIONADO/Easy-RSA/Corrección RSA.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BASTIONADO/Tema 2/Tema 2.md",
+                "file": "BASTIONADO/Easy-RSA/Corrección RSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BASTIONADO/Tema 2/Tema 2.md",
+                "file": "BASTIONADO/Easy-RSA/Corrección RSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BASTIONADO/Tema 2/Tema 2.md"
+                "file": "BASTIONADO/Easy-RSA/Corrección RSA.md"
               }
             }
           }
@@ -150,6 +150,10 @@
   },
   "active": "b151e91219e7f23d",
   "lastOpenFiles": [
+    "BASTIONADO/Easy-RSA/Falta Vídeo.md",
+    "BASTIONADO/Easy-RSA/Corrección RSA.md",
+    "BASTIONADO/Tema 2/Tema 2.md",
+    "BASTIONADO/Easy-RSA",
     "BASTIONADO/Tema 2/ajduntos/update-grub.png",
     "BASTIONADO/Tema 2/ajduntos/hash-00-header 3.png",
     "BASTIONADO/Tema 2/ajduntos/hash-00-header 2.png",
@@ -160,11 +164,9 @@
     "BASTIONADO/Tema 2/ajduntos/cat.png",
     "BASTIONADO/Tema 2/ajduntos/partition.png",
     "BASTIONADO/Tema 2/ajduntos/access-root.png",
-    "BASTIONADO/Tema 2/ajduntos/edit-grub 1.png",
     "BASTIONADO/Tema 2/ajduntos/CCN-CERT_IA-08-15-BIOS (1).pdf",
     "BASTIONADO/Tema 2/ajduntos",
     "NORMATIVA/tema1.md",
-    "BASTIONADO/Tema 2/Tema 2.md",
     "BASTIONADO/Tema 1.md",
     "BASTIONADO/Tema 2",
     "Normativa/tema1.md",
@@ -177,7 +179,6 @@
     "INCIDENTES",
     "NORMATIVA",
     "BASTIONADO",
-    "PRODUCCION SEGURA",
-    "ANALISIS"
+    "PRODUCCION SEGURA"
   ]
 }
