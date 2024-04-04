@@ -16,7 +16,7 @@ chmod 440 /etc/ssl/private/ssl-cert-snakeoil.key
 nano /etc/freeradius/3.0/clientes.conf
 
 client TP-Link-AP{
-	ipaddr = 192.168.90.90
+	ipaddr = 192.168.1.90
 	secret = Camina-100
 }
 
